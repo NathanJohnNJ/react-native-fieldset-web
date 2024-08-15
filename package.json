@@ -1,0 +1,26 @@
+{
+  "name": "@njtd/react-native-fieldset-web",
+  "version": "1.0.0",
+  "description": "A React Native component that resembles a html fieldset for projects that will be used on the web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanJohnNJ/react-native-fieldset-web.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "native",
+    "fieldset"
+  ],
+  "author": "Nathan John (NJTD)",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/NathanJohnNJ/react-native-fieldset-web/issues"
+  },
+  "homepage": "https://github.com/NathanJohnNJ/react-native-fieldset-web#readme"
+}
