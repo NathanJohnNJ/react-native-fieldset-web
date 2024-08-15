@@ -24,7 +24,7 @@ import { View, Text } from 'react-native-web';
 
 ## Api Reference
         Property       |     Type     |             Default             |                Description                  |  Required
------------------------|--------------|---------------------------------|---------------------------------------------|-----------
+ :-------------------- | :----------: | :------------------------------ | :-----------------------------------------: | :--------:
 label                  |    String    | `"FieldSet-label"`              |            Label for fieldset               |    Yes
 labelBackgroundColor   |    String    | `'#fff'`                        |      Background colour for label View       |     No
 labelColor             |    String    | `'#000'`                        |            Text colour of label             |     No
