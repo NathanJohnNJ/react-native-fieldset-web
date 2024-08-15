@@ -17,10 +17,13 @@
     "fieldset"
   ],
   "author": "Nathan John (NJTD)",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "types": "./index.d.ts",
   "bugs": {
     "url": "https://github.com/NathanJohnNJ/react-native-fieldset-web/issues"
   },
-  "homepage": "https://github.com/NathanJohnNJ/react-native-fieldset-web#readme"
+  "homepage": "https://github.com/NathanJohnNJ/react-native-fieldset-web#readme",
+  "dependencies": {
+    "react-native-web": "^0.19.12"
+  }
 }
