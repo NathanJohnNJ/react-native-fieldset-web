@@ -64,6 +64,7 @@ const styles = StyleSheet.create({
         borderStyle: 'solid',
         margin: 5,
         marginTop: 10,
+        width: 150
     },
     labelView: {
         justifyContent: 'center',
