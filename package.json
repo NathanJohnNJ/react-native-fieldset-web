@@ -24,12 +24,14 @@
   },
   "homepage": "https://github.com/NathanJohnNJ/react-native-fieldset-web#readme",
   "dependencies": {
-    "prop-types": "^15.8.1",
-    "react": "^18.3.1",
-    "react-native-web": "^0.19.12"
+    "prop-types": "^15.8.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
     "@types/react-native-web": "^0.0.0"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-native-web": "^0.19.12"
   }
 }
